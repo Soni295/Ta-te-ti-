@@ -1,0 +1,31 @@
+Barra Superior
+  Partida
+    Nueva Partida
+  Configuracion
+    Dificultad
+    Partida de a dos
+    Signo del primer Jugador
+
+Botones Pulsadores
+  Estos Van a imprimir en si mismos el signo despues van a ver quien gano
+  
+Label
+	Cantidad de Partidas:
+	Ganadas X:
+	Ganadas O:
+
++----------------------------------------+
+| Partida Configuracion                  |
++--------------------+                   |
+|+-----+-----+-----+ |	Partidas : 0     |
+||     |     |     | |  Ganadas X: 0     |
+||     |     |     | |  Ganadas Y: 0     |
+|+-----+-----+-----+ |                   |
+||     |     |     | |  Contra la Pc     |
+||     |     |     | |   0   0   0       |
+|+-----+-----+-----+ |                   |
+||     |     |     | |                   |
+||     |     |     | |                   |
+|+-----+-----+-----+ |                   |
++--------------------+-------------------+
+
