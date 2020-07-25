@@ -1,3 +1,5 @@
+"""
+
 from tkinter import *
 from tkinter import font as tkFont
 
@@ -98,4 +100,11 @@ Juego()
 
 
 
-raiz.mainloop()
+raiz.mainloop()"""
+tabla=[ "" for i in range(10)]
+print(tabla)
+
+valor=True
+print(valor)
+valor=!(valor)
+print(valor)
